@@ -1,4 +1,5 @@
-# strcat-use
+string functions 
+
 
 #include <stdio.h>
 #include <stdlib.h>

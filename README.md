@@ -13,7 +13,7 @@ int main()
     i=strlen(fi); // length 
     printf("length of string fi before using strcat will be %d \n",i);
      
-    strcat(fi,sec);// combine
+    strcat(fi,sec);// combine or concatenate
     puts(sec);// print using puts 
     puts(fi);
     j=strlen(fi);// length 
